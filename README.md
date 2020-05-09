@@ -1,2 +1,7 @@
 # airlite-source-api
-A collection of wrappers for Airlite source network API-s 
+A collection of API wrappers for services that provide air quality data.
+
+## Networks
+
+* [Uradmonitor](https://www.uradmonitor.com/)
+* [IQAir](https://www.iqair.com/)
