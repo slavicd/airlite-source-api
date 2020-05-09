@@ -1,0 +1,20 @@
+{
+    "name": "airlite/source-api",
+    "description": "A collection of API wrappers for services that provide air quality data.",
+    "type": "library",
+    "version": "0.1.0",
+    "require": {
+        "guzzlehttp/guzzle": "^6.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Airlite\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Slavic Dragovtev",
+            "email": "slavic@entropi.me"
+        }
+    ]
+}
